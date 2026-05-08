@@ -5,7 +5,7 @@ test('renders portfolio headline', () => {
   render(<App />);
   expect(
     screen.getByRole('heading', {
-      name: /olá! eu sou marco filho/i,
+      name: /olá! eu sou Marco Germano/i,
     })
   ).toBeInTheDocument();
 });

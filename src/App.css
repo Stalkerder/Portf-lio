@@ -501,6 +501,7 @@ button {
   z-index: 2;
   width: min(90%, 430px);
   height: auto;
+  top: -20px;
   filter:
     drop-shadow(0 0 1px rgba(255, 255, 255, 0.35))
     drop-shadow(0 26px 40px rgba(0, 0, 0, 0.52));

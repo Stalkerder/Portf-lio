@@ -51,16 +51,15 @@ export const Banner = () => {
           <h1>
             Olá! Eu sou
             <br />
-            Marco Filho,
+            Marco Germano,
             <br />
             <span className="txt-rotate" aria-live="polite">
               <span className="wrap">{displayText || "\u00a0"}</span>
             </span>
           </h1>
           <p>
-            Desenvolvo interfaces React, APIs .NET e automações Python para
-            transformar processos manuais em sistemas mais claros, rápidos e
-            confiáveis.
+            Desenvolvo soluções corporativas com React, .NET, Python e Banco de dados, transformando processos manuais em sistemas modernos, automatizados e escaláveis. 
+            Atuo na criação de interfaces intuitivas, APIs robustas, dashboards analíticos e integrações entre sistemas, com foco em performance, confiabilidade e eficiência operacional.
           </p>
           <div className="banner-actions">
             <a className="primary-action" href="#contact">

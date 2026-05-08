@@ -25,7 +25,7 @@ export const NavBar = () => {
       <div className="nav-container">
         <a className="navbar-brand" href="#home" onClick={closeMenu}>
           <span className="brand-mark">MF</span>
-          <span className="brand-name">Marco Filho</span>
+          <span className="brand-name">Marco Germano</span>
         </a>
         <button
           className={`navbar-toggler ${expanded ? "open" : ""}`}

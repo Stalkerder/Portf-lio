@@ -3,7 +3,7 @@ export const Footer = () => (
     <div className="container footer-inner">
       <a className="navbar-brand" href="#home">
         <span className="brand-mark">MF</span>
-        <span className="brand-name">Marco Filho</span>
+        <span className="brand-name">Marco Germano</span>
       </a>
       <p>Front-end portfolio desenvolvido em React.</p>
     </div>
