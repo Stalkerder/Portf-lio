@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portf-lio/static/css/main.ed961654.css",
+    "main.js": "/Portf-lio/static/js/main.cd8d23bc.js",
+    "static/js/453.a7d99afe.chunk.js": "/Portf-lio/static/js/453.a7d99afe.chunk.js",
+    "static/media/Person.png": "/Portf-lio/static/media/Person.975dabf4898c7c53fc12.png",
+    "static/media/PersonHead.png": "/Portf-lio/static/media/PersonHead.ee0769c37c6b858ab57b.png",
+    "index.html": "/Portf-lio/index.html",
+    "main.ed961654.css.map": "/Portf-lio/static/css/main.ed961654.css.map",
+    "main.cd8d23bc.js.map": "/Portf-lio/static/js/main.cd8d23bc.js.map",
+    "453.a7d99afe.chunk.js.map": "/Portf-lio/static/js/453.a7d99afe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed961654.css",
+    "static/js/main.cd8d23bc.js"
+  ]
+}
